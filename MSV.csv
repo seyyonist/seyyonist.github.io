@@ -1,0 +1,7 @@
+Date,Voucher Type,Ref.No,Dr.Ledger name,Cr.ledger name,amount ,narration
+4-Dec-20,Purchase,1,Purchases Taxable @ 12.5%,Vijay Electronics,10000,Being Goods Purchased
+5-Dec-20,Sales,2,Majid Hardwares,Sales Taxable @ 4%,12000,Being Goods Sold
+6-Dec-20,Payment,1,Vijay Electronics,Indian Bank,10000,Being Payment Made
+7-Dec-20,Receipt,3,Cash,Majid Hardwares,12000,Being Cash Received
+8-Dec-20,Contra,4,Indian Bank,Cash,2000,Being Cash Deposited
+9-Dec-20,Journal,5,Depreciation,Furniture,1500,Being Depreciation on Furniture
